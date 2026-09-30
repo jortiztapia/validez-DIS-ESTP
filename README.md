@@ -1,4 +1,4 @@
-Evidencias de Validez de la escala DIS-ESTP
+# Evidencias de Validez de la escala DIS-ESTP
 
 Este repositorio reúne documentación y código en R asociados a la recolección de evidencia de validación de la Escala de Disposición hacia la Educación Superior Técnico-Profesional (DIS-ESTP), aplicada en el marco de la Ficha de Caracterización Única (FCU).
 
