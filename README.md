@@ -1,4 +1,4 @@
-# Validez de la escala DIS-ESTP
+Evidencias de Validez de la escala DIS-ESTP
 
 Este repositorio reúne documentación y código en R asociados a la recolección de evidencia de validación de la Escala de Disposición hacia la Educación Superior Técnico-Profesional (DIS-ESTP), aplicada en el marco de la Ficha de Caracterización Única (FCU).
 
@@ -33,3 +33,7 @@ Este repositorio se vincula al Manual técnico de uso e interpretación de la Es
 ## Licencia
 
 No se incorpora una licencia abierta en esta versión del repositorio. El contenido mantiene los derechos que correspondan a sus respectivas autorías e instituciones.
+
+## Referencia
+
+American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2018). Estándares para pruebas educativas y psicológicas (M. Lieve, Trans.). Washington, DC: American Educational Research Association. (Original work published 2014).
