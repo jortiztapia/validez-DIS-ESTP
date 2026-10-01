@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio, por favor cite el trabajo de la siguiente forma."
+title: "Evidencias de validez de la escala DIS-ESTP"
+type: software
+authors:
+  - family-names: "Ortiz Tapia"
+    given-names: "Javiera"
+version: "1.0"
+date-released: 2026-09-30
+repository-code: "https://github.com/jortiztapia/validez-DIS-ESTP"
+url: "https://github.com/jortiztapia/validez-DIS-ESTP"
+abstract: >-
+  Repositorio de documentación y código en R asociado a la validación
+  psicométrica de la Escala de Disposición hacia la Educación Superior
+  Técnico-Profesional (DIS-ESTP), aplicada en el marco de la Ficha de
+  Caracterización Única (FCU). Incluye análisis de calidad de respuesta,
+  estructura interna, confiabilidad, invarianza de medición y perfiles
+  descriptivos y latentes para las cohortes 2024, 2025 y 2026.
+keywords:
+  - DIS-ESTP
+  - educación superior técnico-profesional
+  - psicometría
+  - validez
+  - confiabilidad
+  - invarianza de medición
+  - R
